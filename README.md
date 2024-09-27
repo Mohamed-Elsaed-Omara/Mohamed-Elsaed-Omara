@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Elsaed!;" />
 </h1>
 
-<h5 align="center">Hello, I’m Mohamed, a passionate and dedicated backend developer with a deep love for creating exceptional user experiences on the web.
+<h5 align="center">Hello, I’m Mohamed, a passionate and dedicated backend developer with a deep love for building robust and scalable web solutions.
 
-I have experience in the field, I’ve had the opportunity to work on a diverse range of projects, from responsive websites to interactive web applications. My journey as a backend developer has equipped me with the skills and knowledge needed to craft pixel-perfect, efficient, and user-friendly interfaces.</h5>
+I have extensive experience in the backend field, where I’ve had the opportunity to work on a diverse range of projects, including e-commerce platforms, payment gateways, and developing APIs. My journey as a backend developer has equipped me with the skills and knowledge needed to design efficient, secure, and scalable systems that ensure seamless user experiences and smooth interactions between different services.</h5>
 
 <br/>
 
